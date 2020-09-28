@@ -1,0 +1,22 @@
+.header img{
+    height: 100px; 
+}
+.header{
+    text-align: center;
+    margin-top: 20px;
+}
+.header nav{
+    background-color: rgb(39, 39, 39);
+    line-height: 50px;
+    font-size: 22px;
+    margin: 15px 0px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: grey;
+}
